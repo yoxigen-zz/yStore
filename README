@@ -1,0 +1,5 @@
+yStore is a Javascript data manager.
+It utilises HTML5's localStorage to persist data and adds several powerful features to enhance the capabilities of localStorage.
+
+copyright Yossi Kolesnicov, 2011
+http://www.yoxigen.com
